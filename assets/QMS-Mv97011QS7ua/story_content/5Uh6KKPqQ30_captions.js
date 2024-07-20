@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.32.20313.0%0D%0A%0D%0A00:00:00.064%20--%3E%2000:00:02.716%0D%0AThe%20vehicle%20on%20the%20right%20side%20has%20the%20right-of-way.%0D%0A%0D%0A"}')
